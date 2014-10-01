@@ -1,0 +1,10 @@
+{
+	"unstable": {
+		"2.0": {
+			"current": "2.0.0-b2",
+			"announcement": "https://github.com/VSEphpbb/browsehappy/releases/tag/v2.0.0-b2",
+			"eol": null,
+			"security": false
+		}
+	}
+}

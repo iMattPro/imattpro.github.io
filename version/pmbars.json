@@ -1,0 +1,10 @@
+{
+	"unstable": {
+		"2.0": {
+			"current": "2.0.0-b1",
+			"announcement": "https://github.com/VSEphpbb/pmbars/archive/v2.0.0-b1.zip",
+			"eol": null,
+			"security": false
+		}
+	}
+}
