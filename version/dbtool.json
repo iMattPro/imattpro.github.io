@@ -1,8 +1,9 @@
 {
-	"unstable": {
+	"stable": {
 		"1.1": {
-			"current": "1.1.0-b2",
-			"announcement": "https://github.com/VSEphpbb/dbtool/releases/tag/v1.1.0-b2",
+			"current": "1.1.0",
+			"download": "https://www.phpbb.com/customise/db/download/106031",
+			"announcement": "https://www.phpbb.com/customise/db/extension/database_optimize_and_repair_tool/",
 			"eol": null,
 			"security": false
 		}
