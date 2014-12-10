@@ -1,8 +1,9 @@
 {
-	"unstable": {
+	"stable": {
 		"2.0": {
-			"current": "2.0.0-b2",
-			"announcement": "https://github.com/VSEphpbb/browsehappy/releases/tag/v2.0.0-b2",
+			"current": "2.0.0",
+			"download": "https://www.phpbb.com/customise/db/download/103451",
+			"announcement": "https://www.phpbb.com/customise/db/extension/browse_happy/",
 			"eol": null,
 			"security": false
 		}
