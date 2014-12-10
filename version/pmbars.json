@@ -1,8 +1,9 @@
 {
-	"unstable": {
+	"stable": {
 		"2.0": {
-			"current": "2.0.0-b1",
-			"announcement": "https://github.com/VSEphpbb/pmbars/archive/v2.0.0-b1.zip",
+			"current": "2.0.0",
+			"download": "https://www.phpbb.com/customise/db/download/103421",
+			"announcement": "https://www.phpbb.com/customise/db/extension/pm_box_status_bars/",
 			"eol": null,
 			"security": false
 		}
