@@ -2,7 +2,6 @@
 	"stable": {
 		"2.0": {
 			"current": "2.0.0",
-			"download": "https://www.phpbb.com/customise/db/download/106026",
 			"announcement": "https://www.phpbb.com/customise/db/extension/browse_happy/",
 			"eol": null,
 			"security": false
