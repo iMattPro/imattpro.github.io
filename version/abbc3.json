@@ -1,7 +1,7 @@
 {
 	"stable": {
 		"3.1": {
-			"current": "3.1.0",
+			"current": "3.1.1",
 			"announcement": "https://www.phpbb.com/customise/db/extension/advanced_bbcode_box/",
 			"eol": null,
 			"security": false
