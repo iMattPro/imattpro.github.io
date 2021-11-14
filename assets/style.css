@@ -31,7 +31,6 @@ body {
 
 h1 {
 	font-family: 'Fjalla One', sans-serif;
-	font-weight: 700;
 	font-size: 3em;
 	line-height: 1.48;
 	text-transform: uppercase;
@@ -57,23 +56,16 @@ li a {
 	color: #f9f9f9;
 	font-size: 4em;
 	text-decoration: none;
-	-o-transition: .5s;
-	-ms-transition: .5s;
-	-moz-transition: .5s;
-	-webkit-transition: .5s;
-	transition: .5s;
 }
 
 li a:hover {
-    -moz-transform: translate(0, -4px);
-    -ms-transform: translate(0, -4px);
-    -o-transform: translate(0, -4px);
-    -webkit-transform: translate(0, -4px);
-    transform: translate(0, -4px)
+	animation: pulse;
+	animation-duration: 1s;
+  
 }
 
 li a .fa-twitter-square:hover { color: #2aa3ef }
-li a .fa-github-square:hover { color: lightgray }
+li a .fa-github-square:hover { color: #4078c0 }
 li a .fa-imdb:hover { color: #dba506 }
 li a .fa-linkedin:hover { color: #0073b1 }
 
