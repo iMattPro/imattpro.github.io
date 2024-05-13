@@ -1,0 +1,10 @@
+{
+	"stable": {
+		"1.0": {
+			"current": "1.0.0-RC1",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?t=2653219",
+			"eol": null,
+			"security": false
+		}
+	}
+}
