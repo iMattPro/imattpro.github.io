@@ -1,9 +1,9 @@
 {
 	"stable": {
 		"1.0": {
-			"current": "1.0.0-RC8",
+			"current": "1.0.0-RC9",
 			"announcement": "https://www.phpbb.com/community/viewtopic.php?t=2653219",
-			"download": "https://github.com/phpbb-extensions/webpushnotifications/releases/download/1.0.0-rc8/phpbb_webpushnotifications_1.0.0-RC8.zip",
+			"download": "https://github.com/phpbb-extensions/webpushnotifications/releases/download/1.0.0-rc9/phpbb_webpushnotifications_1.0.0-RC9.zip",
 			"eol": null,
 			"security": false
 		}
